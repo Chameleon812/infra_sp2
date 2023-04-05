@@ -59,7 +59,7 @@ The YaMDb project collects user feedback on works. Works are not stored in YaMDb
 ```
 2. Go to the infra folder and run docker-compose.yaml (with Docker installed and running):
 ```
-    docker-compose up
+    docker-compose up -d
 ```
 3. To rebuild containers, run the command:
 ```
